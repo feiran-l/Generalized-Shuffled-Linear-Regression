@@ -1,14 +1,14 @@
-# [Generalized-Shuffled-Linear-Regression]()
+# Generalized-Shuffled-Linear-Regression
 
-[Feiran Li](https://sites.google.com/view/feiranlihomepage/home), [Kent Fujiwara](https://kfworks.com/), [Fumio Okura](http://cvl.ist.osaka-u.ac.jp/user/okura/), and [Yasuyuki Matsushita](http://cvl.ist.osaka-u.ac.jp/en/member/matsushita/)
+##### This repo is under construction. The shape matching code in matlab will come soon
 
-ICCV 2021
+Code for ICCV 2021 paper: [Generalized Shuffled Linear Regression]()
 
-This repo is under construction and the shape matching code in matlab will come soon
+![Teaser](teaser.png) 
 
 ### Run for demo
 * Install necessary dependencies: ```$ pip3 install requirements.txt ```
-* Run `homography.py` for image registration and `pcd_registration.py` for point cloud registration. 
+* Run `homography.py` for image registration and `pcd_registration.py` for point cloud registration experiements. 
 
 
 ### Citation
