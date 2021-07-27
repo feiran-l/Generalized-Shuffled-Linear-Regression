@@ -12,10 +12,11 @@
 * Install necessary dependencies: ```$ pip3 install requirements.txt ```
 * Run `img_registration.py` for the image registration demo, and `pcd_registration.py` for the point cloud registration one. 
 
+
 ##### For isometric shape matching:
 * Direct to the `shape_matching` folder in Matlab. R2019a or later is needed to use the `matchpairs` function to solve the LAP.
 * Run `demo.m` for fun.
-* We used the directional operator proposed in the excellent work [BCICP](https://github.com/llorz/SGA18_orientation_BCICP_code), and this code is based on its release. Please pay attention to citation.
+* We have used the orientation-preserving operator proposed in the excellent work [BCICP](https://github.com/llorz/SGA18_orientation_BCICP_code), and this code is based on its release. Please pay attention to citation.
 
 
 ### 2. Related topic
