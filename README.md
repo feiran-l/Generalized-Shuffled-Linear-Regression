@@ -4,11 +4,13 @@
 
 Code for ICCV 2021 paper: [Generalized Shuffled Linear Regression]()
 
-![Teaser](teaser.png) 
+![Teaser](teaser.png){:height="50%" width="50%"}
+
+
 
 ### Run for demo
 * Install necessary dependencies: ```$ pip3 install requirements.txt ```
-* Run `homography.py` for image registration and `pcd_registration.py` for point cloud registration experiements. 
+* Run `img_registration.py` for the image registration demo, and `pcd_registration.py` for the point cloud registration one. 
 
 
 ### Citation
