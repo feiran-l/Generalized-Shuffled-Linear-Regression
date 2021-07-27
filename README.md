@@ -20,9 +20,15 @@
 * We have used the orientation-preserving operator proposed in the excellent work [BCICP](https://github.com/llorz/SGA18_orientation_BCICP_code), and this code is based on its release. Please pay attention to citation.
 
 
-### 2. Related topic
+### 2. Related works
+
+##### Other implementations of shuffled linear regression:
+* [Linear Regression with Shuffled Labels](https://github.com/abidlabs/shuffled_stats)
+* [Stochastic Expectation-Maximization for Shuffled Linear Regression](https://github.com/abidlabs/stochastic-em-shuffled-regression)
+
+##### Techniques for speed up:
 The main limitation of our current implementation lies in time efficiency, which is dominated by the LAP solver. 
-Some CUDA-based Hungarian algorithms like [this](https://github.com/rapidsai/cugraph) may help to address this problem. 
+Some CUDA-based Hungarian algorithms like [this](https://github.com/rapidsai/cugraph) and [this](https://github.com/paclopes/HungarianGPU) may help to address this problem. 
 
 
 
