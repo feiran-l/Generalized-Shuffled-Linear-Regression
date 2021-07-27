@@ -2,12 +2,13 @@
 
 #### Code for the ICCV 2021 paper: [Generalized Shuffled Linear Regression](https://drive.google.com/file/d/1Qu21VK5qhCW8WVjiRnnBjehrYVmQrDNh/view?usp=sharing). The supplementary material is [here](https://drive.google.com/file/d/18N1q6Jz3T-dqJA8mJeoylZaEg8eM5Qb0/view).
 
+##### Authors: [Feiran Li](https://sites.google.com/view/feiranlihomepage/home), [Kent Fujiwara](https://kfworks.com/), [Fumio Okura](http://cvl.ist.osaka-u.ac.jp/user/okura/), and [Yasuyuki Matsushita](http://cvl.ist.osaka-u.ac.jp/en/member/matsushita/)
+
 
 ![Teaser](teaser.png)
 
 
-
-### 1. Run for demo
+### 1. Run the demo
 ##### For image registration and point cloud registration:
 * Install necessary dependencies: ```$ pip3 install requirements.txt ```
 * Run `img_registration.py` for the image registration demo, and `pcd_registration.py` for the point cloud registration one. 
