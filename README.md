@@ -1,6 +1,6 @@
 # Generalized-Shuffled-Linear-Regression
 
-#### Code for the ICCV 2021 paper: [Generalized Shuffled Linear Regression](https://drive.google.com/file/d/1Qu21VK5qhCW8WVjiRnnBjehrYVmQrDNh/view?usp=sharing). The supplementary material is [here](https://drive.google.com/file/d/18N1q6Jz3T-dqJA8mJeoylZaEg8eM5Qb0/view).
+#### Code for the ICCV 2021 paper: [Generalized Shuffled Linear Regression](https://openaccess.thecvf.com/content/ICCV2021/html/Li_Generalized_Shuffled_Linear_Regression_ICCV_2021_paper.html).
 
 ##### Authors: [Feiran Li](https://sites.google.com/view/feiranlihomepage/home), [Kent Fujiwara](https://kfworks.com/), [Fumio Okura](http://cvl.ist.osaka-u.ac.jp/user/okura/), and [Yasuyuki Matsushita](http://cvl.ist.osaka-u.ac.jp/en/member/matsushita/)
 
