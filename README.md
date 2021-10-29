@@ -18,6 +18,7 @@
 * Direct to the `shape_matching` folder in Matlab. R2019a or later is needed to use the `matchpairs` function to solve the linear assignment problem.
 * Run `demo.m` for fun.
 * We have used the orientation-preserving operator proposed in the excellent work [BCICP](https://github.com/llorz/SGA18_orientation_BCICP_code), and this code is based on its release. Please pay attention to citation.
+* If you wish to use ur own data, I have implemented a [python wrapper of the fast-marching algorithm](https://github.com/SILI1994/fast_matching_python) to compute geodesics of meshes.
 
 
 ### 2. Related works
