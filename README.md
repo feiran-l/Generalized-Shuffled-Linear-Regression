@@ -8,6 +8,8 @@
 ![Teaser](teaser.png)
 
 
+**UPDATE**: The objective in Eq.7 should be corrected to <img src="http://www.sciweavers.org/tex2img.php?eq=%20%5C%7C%20PAx%20-%20PP%5ETb%20%5C%7C%20%5E2&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt=" \| PAx - PP^Tb \| ^2" width="122" height="21" />. The following analysis remain the same.
+
 ### 1. Run the demo
 ##### For image registration and point cloud registration:
 * Install necessary dependencies: ```$ pip3 install requirements.txt ```
